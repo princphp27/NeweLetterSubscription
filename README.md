@@ -11,3 +11,4 @@ MYSQL
 4. Update env file with DB and email Credentails 
 5. Execute Artisan Migrate (PHP Artisan migrate)
 6. Execlute the project on browser  
+7. or Import the sql Query in DATABASE 
