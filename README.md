@@ -4,7 +4,7 @@ PHP 7.2
 Composer
 MYSQL
 
-#STEPS 
+STEPS 
 1. Clone the source Code on Local XAMP folder 
 2. RUN Composer Install (in Projcet Folder)
 3. Create a data base 
